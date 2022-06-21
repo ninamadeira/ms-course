@@ -1,0 +1,5 @@
+package com.devsuperior.hroauth.config;
+
+public class AppConfig {
+
+}
